@@ -1,0 +1,10 @@
+* {font-family: Verdana, Geneva, Tahoma, sans-serif}
+h1{text-transform: capitalize; text-align: center;color: red;}
+p{text-indent: 50px;}
+li{text-indent: 25px;}
+hr{border-top: 3px dotted #000000;}
+.align {text-align: center;}
+.span{text-transform: capitalize; font-weight: bold;}
+h3{text-transform: uppercase;color: red;}
+.PG{text-transform: capitalize; font-weight: bold;}
+.float{float: right;}
